@@ -1,0 +1,109 @@
+Base path: F:/Professional/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-9004
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=3586 outsize=1400 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2407 outsize=1250 kw=MONOSCOPIC APPLY_GAMMA_OFF STEREO_DEBUG_OFF USE_YPCBCR_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2407 outsize=754 kw=MONOSCOPIC APPLY_GAMMA_OFF STEREO_DEBUG_OFF USE_YPCBCR_OFF ok=1
+Cmd: preprocess
+  insize=2552 outsize=1681 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=141083 outsize=2607 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF MONOSCOPIC APPLY_GAMMA_OFF STEREO_DEBUG_OFF USE_YPCBCR_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=141083 outsize=1307 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF MONOSCOPIC APPLY_GAMMA_OFF STEREO_DEBUG_OFF USE_YPCBCR_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=93624 outsize=2875 kw=POINT MONOSCOPIC APPLY_GAMMA_OFF STEREO_DEBUG_OFF USE_YPCBCR_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=93624 outsize=1607 kw=POINT MONOSCOPIC APPLY_GAMMA_OFF STEREO_DEBUG_OFF USE_YPCBCR_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=82204 outsize=1477 kw=MONOSCOPIC APPLY_GAMMA_OFF STEREO_DEBUG_OFF USE_YPCBCR_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=82204 outsize=632 kw=MONOSCOPIC APPLY_GAMMA_OFF STEREO_DEBUG_OFF USE_YPCBCR_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=133863 outsize=2883 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF MONOSCOPIC APPLY_GAMMA_OFF STEREO_DEBUG_OFF USE_YPCBCR_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=133863 outsize=1250 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF MONOSCOPIC APPLY_GAMMA_OFF STEREO_DEBUG_OFF USE_YPCBCR_OFF ok=1
+Cmd: preprocess
+  insize=2757 outsize=587 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2380 outsize=2143 kw=APPLY_GAMMA_OFF STEREO_DEBUG_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2380 outsize=697 kw=APPLY_GAMMA_OFF STEREO_DEBUG_OFF ok=1
+Cmd: preprocess
+  insize=3189 outsize=736 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2653 outsize=1453 kw=APPLY_GAMMA_OFF USE_YPCBCR_OFF ALPHAPACK_NONE ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2653 outsize=713 kw=APPLY_GAMMA_OFF USE_YPCBCR_OFF ALPHAPACK_NONE ok=1
+Cmd: preprocess
+  insize=2692 outsize=666 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2245 outsize=1071 kw=MONOSCOPIC APPLY_GAMMA_OFF STEREO_DEBUG_OFF USE_YPCBCR_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2245 outsize=754 kw=MONOSCOPIC APPLY_GAMMA_OFF STEREO_DEBUG_OFF USE_YPCBCR_OFF ok=1
+Cmd: preprocess
+  insize=1973 outsize=1105 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1126 outsize=1250 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1126 outsize=1136 kw= ok=1
+Cmd: preprocess
+  insize=2682 outsize=1123 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1862 outsize=1697 kw=__ ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1862 outsize=1250 kw=__ ok=1
+Cmd: preprocess
+  insize=3119 outsize=699 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2626 outsize=1908 kw=APPLY_GAMMA_OFF USE_YPCBCR_OFF ALPHAPACK_NONE ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2626 outsize=713 kw=APPLY_GAMMA_OFF USE_YPCBCR_OFF ALPHAPACK_NONE ok=1
+Cmd: preprocess
+  insize=4691 outsize=828 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4013 outsize=1177 kw=MONOSCOPIC APPLY_GAMMA_OFF STEREO_DEBUG_OFF USE_YPCBCR_OFF HIGH_QUALITY_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4013 outsize=697 kw=MONOSCOPIC APPLY_GAMMA_OFF STEREO_DEBUG_OFF USE_YPCBCR_OFF HIGH_QUALITY_OFF ok=1
+Cmd: preprocess
+  insize=2303 outsize=562 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1973 outsize=1526 kw=APPLY_GAMMA_OFF USE_YPCBCR_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1973 outsize=754 kw=APPLY_GAMMA_OFF USE_YPCBCR_OFF ok=1
+Cmd: preprocess
+  insize=5180 outsize=916 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4394 outsize=1242 kw=MONOSCOPIC APPLY_GAMMA_OFF STEREO_DEBUG_OFF ALPHAPACK_NONE HIGH_QUALITY_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4394 outsize=713 kw=MONOSCOPIC APPLY_GAMMA_OFF STEREO_DEBUG_OFF ALPHAPACK_NONE HIGH_QUALITY_OFF ok=1
+Cmd: preprocess
+  insize=2370 outsize=623 ok=1
+Cmd: preprocess
+  insize=2752 outsize=698 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2279 outsize=1518 kw=APPLY_GAMMA_OFF USE_YPCBCR_OFF ALPHAPACK_NONE ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2279 outsize=754 kw=APPLY_GAMMA_OFF USE_YPCBCR_OFF ALPHAPACK_NONE ok=1
+Cmd: preprocess
+  insize=1594 outsize=667 ok=1
+Cmd: preprocess
+  insize=4532 outsize=1394 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3326 outsize=1705 kw=APPLY_GAMMA_OFF STEREO_DEBUG_OFF USE_YPCBCR_OFF ALPHAPACK_NONE ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3326 outsize=998 kw=APPLY_GAMMA_OFF STEREO_DEBUG_OFF USE_YPCBCR_OFF ALPHAPACK_NONE ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3326 outsize=1981 kw=APPLY_GAMMA_OFF STEREO_DEBUG_OFF USE_YPCBCR_OFF ALPHAPACK_LEFT_RIGHT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3326 outsize=1282 kw=APPLY_GAMMA_OFF STEREO_DEBUG_OFF USE_YPCBCR_OFF ALPHAPACK_LEFT_RIGHT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2653 outsize=1729 kw=APPLY_GAMMA_OFF USE_YPCBCR_OFF ALPHAPACK_LEFT_RIGHT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2653 outsize=998 kw=APPLY_GAMMA_OFF USE_YPCBCR_OFF ALPHAPACK_LEFT_RIGHT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=93624 outsize=1851 kw=DIRECTIONAL MONOSCOPIC APPLY_GAMMA_OFF STEREO_DEBUG_OFF USE_YPCBCR_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=93624 outsize=1193 kw=DIRECTIONAL MONOSCOPIC APPLY_GAMMA_OFF STEREO_DEBUG_OFF USE_YPCBCR_OFF ok=1
