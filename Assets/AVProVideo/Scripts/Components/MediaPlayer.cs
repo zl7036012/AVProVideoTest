@@ -404,7 +404,7 @@ namespace RenderHeads.Media.AVProVideo
 			{
 				if (m_AutoOpen)
 				{
-					OpenVideoFromFile();
+					//OpenVideoFromFile();
 
 					if (m_LoadSubtitles && m_Subtitles != null && !string.IsNullOrEmpty(m_SubtitlePath))
 					{
@@ -761,8 +761,7 @@ namespace RenderHeads.Media.AVProVideo
 
 				// Update
 				m_Player.Update();
-				m_Control.Seek(m_Control.GetCurrentTimeMs()+50.0f);
-			
+
 				// Render (done in co-routine)
 				//m_Player.Render();
 

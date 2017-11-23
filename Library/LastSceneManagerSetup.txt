@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/AVProVideo/Demos/03_Demo_VideoControls.unity
+- path: Assets/ZY/Scenes/videoPlay.unity
   isLoaded: 1
   isActive: 1

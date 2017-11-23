@@ -146,7 +146,7 @@ namespace RenderHeads.Media.AVProVideo
 			if( m_Video != null )
 			{
 #if UNITY_5 || UNITY_5_4_OR_NEWER
-				//Debug.Assert(m_Width == 0 && m_Height == 0 && m_DurationMs == 0.0f);
+				Debug.Assert(m_Width == 0 && m_Height == 0 && m_DurationMs == 0.0f);
 #endif
 
 				bReturn = m_Video.Call<bool>("OpenVideoFromFile", path, offset, httpHeaderJson);
